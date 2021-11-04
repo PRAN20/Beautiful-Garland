@@ -1,4 +1,5 @@
 # Beautiful-Garland
+- https://www.codechef.com/problems/BEAUTGAR
 
 ## Beautiful Garland Problem Code: 
 Read problems statements in Hindi, Mandarin Chinese, Russian, Vietnamese and Bengali as well.
